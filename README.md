@@ -16,3 +16,5 @@ To use the tool:
 ```bash
 $ java -cp gson-2.8.5.jar:. MapToJson /path/to/serialized/hashmap.file
 ```
+
+You can pass the sample Java `HashMap` serialized files supplied in this repo as a demonstration (`JavaHashMap1.serialized` and `JavaHashMap2.serialized`).
